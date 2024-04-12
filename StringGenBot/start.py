@@ -18,15 +18,15 @@ Tʜɪs ɪs {me2},
 Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 ᴊɪsᴋᴇ ᴊᴀɪʙ ᴍᴇ ɢᴀɴᴅʜɪ  ᴄʜᴏʀɪ ᴜsᴋᴇ ᴘʏᴀᴀʀ ᴍᴇ ᴀᴀɴᴅʜɪ 🖤.
 
-Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [AK KING 👑](https://t.me/Alllllllllllllllllllllll) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [AK ARMAN 👑](t.me/AK_ARMAN_07) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/+f9ZegEtS4U4wNDdl"),
-                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/Alllllllllllllllllllllll")
+                    InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="@friendship_gang0"),
+                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/AK_ARMAN_07")
                 ]
             ]
         ),
